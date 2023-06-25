@@ -9,3 +9,5 @@
 - Also you can find screen shots of the work done on my pc under
 -   Screenshot_Create_uk_food_populate_establishments.png
 -   Screenshot_MongoDB_Starter.png
+
+-   FYI MongoDB database uk_food, collection establishments created with "mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json"
